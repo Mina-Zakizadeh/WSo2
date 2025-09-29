@@ -1,0 +1,4 @@
+Running WSO2 in Docker:
+Firstly, we pull WSO2 by the following command:
+docker pull wso2/wso2am
+If you want to specify the version, add ':' and write the version you want
